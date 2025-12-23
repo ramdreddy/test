@@ -1,0 +1,6 @@
+TEAMNAME:Los Angeles Lakers
+PLAYER:LeBron,James,23,SF,81,250,39,25.7,7.3,8.3
+PLAYER:Anthony,Davis,3,PF,82,253,31,24.7,12.5,3.5
+PLAYER:Austin,Reaves,15,SG,77,206,26,15.9,4.3,5.5
+PLAYER:D'Angelo,Russell,1,PG,77,193,28,18.0,3.1,6.3
+PLAYER:Rui,Hachimura,28,PF,80,230,26,13.6,4.3,1.2
